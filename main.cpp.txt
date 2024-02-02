@@ -9,6 +9,11 @@ void quicksort(){
 
 }
 
+void mereSort(){
+
+//
+}
+
 int main(){
 std::cout<<"Hello world";
 std::cout<<"Hello dummy repo";
